@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj": {}
+    "C:\\Users\\matta\\Desktop\\C# Folder\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj": {
+    "C:\\Users\\matta\\Desktop\\C# Folder\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\matta\\Desktop\\C# Folder\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj",
         "projectName": "Variables-MadLib-Exercise",
-        "projectPath": "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj",
-        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\obj\\",
+        "projectPath": "C:\\Users\\matta\\Desktop\\C# Folder\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj",
+        "packagesPath": "C:\\Users\\matta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matta\\Desktop\\C# Folder\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\matta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

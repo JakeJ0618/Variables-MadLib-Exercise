@@ -6,20 +6,20 @@ namespace Variables_MadLib_Exercise
     {
         static void Main(string[] args)
         {
-            string adjective;
-            string adjective2;
-            string typeOfBird;
-            string roomInAHouse;
-            string pastTenseVerb;
-            string verb;
-            string relativesName;
-            string noun;
-            string typeOfLiquid;
-            string verbEndingInING;
-            string pluralPartOfTheBody;
-            string pluralNoun;
-            string secondVerbEndingInING;
-            string noun2;
+            string adjective = "strange";
+            string adjective2 = "grotesque";
+            string typeOfBird = "Eagle";
+            string roomInAHouse = "children's bedroom";
+            string pastTenseVerb = "fell";
+            string verb = "violate";
+            string relativesName = "PeePaw";
+            string noun = "colostomy bag";
+            string typeOfLiquid = "mercury";
+            string verbEndingInING = "shooting";
+            string pluralPartOfTheBody = "ear lobes";
+            string pluralNoun = "howler monkeys";
+            string secondVerbEndingInING = "kissing";
+            string noun2 = "the President of the United States";
 
             // Give values to the variables above by taking input from the user. Example-- string variableName = Console.ReadLine();
             // Be sure to prompt the user before each value is assigned. Example -- Console.WriteLine("Please give me an adjective.");

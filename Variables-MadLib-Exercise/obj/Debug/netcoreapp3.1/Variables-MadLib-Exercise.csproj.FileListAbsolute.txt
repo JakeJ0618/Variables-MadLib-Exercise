@@ -10,3 +10,17 @@ C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\
 C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.dll
 C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.pdb
 C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.genruntimeconfig.cache
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.exe
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.deps.json
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.runtimeconfig.json
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.runtimeconfig.dev.json
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.dll
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.pdb
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.csproj.AssemblyReference.cache
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.AssemblyInfoInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.AssemblyInfo.cs
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.dll
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.pdb
+C:\Users\matta\Desktop\C# Folder\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.genruntimeconfig.cache
